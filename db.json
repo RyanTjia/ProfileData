@@ -2,10 +2,19 @@
   "Education": [
     {"courses": [
       {"title":"Computer Program Fundamental I", "progress":"Completed"},
-      {"title":"Computer Program Fundamental II", "progress":"complete"},
-      {"title":"test", "progress":"complete"},
-      {"title":"test", "progress":"complete"},
-      {"title":"test", "progress":"complete"}
+      {"title":"Computer Program Fundamental II", "progress":"Completed"},
+      {"title":"Intro to Data Structures", "progress":"Completed"},
+      {"title":"Advanced Data Structures", "progress":"In-Progress"},
+      {"title":"Software Design Methods", "progress":"Completed"},
+      {"title":"Computer Architecture", "progress":"Completed"},
+      {"title":"Operating Systems", "progress":"Completed"},
+      {"title":"Data Base Management Systems", "progress":"Completed"},
+      {"title":"Software Engineering", "progress":"Completed"},
+      {"title":"ITheory of Programming Language", "progress":"Completed"},
+      {"title":"Data Security & Cryptography", "progress":"Completed"},
+      {"title":"Introduction to Networks", "progress":"Completed"},
+      {"title":"Theory of Computation", "progress":"Completed"},
+      {"title":"Web Application Development", "progress":"In-Progress"}
     ]}
   ]
 }
