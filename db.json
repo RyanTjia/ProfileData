@@ -16,5 +16,15 @@
       {"title":"Theory of Computation", "progress":"Completed"},
       {"title":"Web Application Development", "progress":"In-Progress"}
     ]}
+  ],
+
+  "Skills": [
+  	{
+  		"languages": ["HTML", "CSS", "JavaScript", "Java", "C#", "Python"],
+  		"operating": ["MacOS", "iOS", "Windows 10 OS", "Android OS"],
+  		"development": ["Repl.it", "Love2D", "Unity", "Sublime Text", "Terminal", "Command Line", "GitHub"],
+  		"office": ["MS Word", "PowerPoint", "Excel", "Outlook", "Google Docs", "Google Sheets", "Gmail"],
+  		"interest": ["Software Development", "Game Development", "Reading", "Writing"]
+  	}
   ]
 }
