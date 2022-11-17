@@ -10,12 +10,11 @@
       {"title":"Operating Systems", "progress":"Completed"},
       {"title":"Data Base Management Systems", "progress":"Completed"},
       {"title":"Software Engineering", "progress":"Completed"},
-      {"title":"ITheory of Programming Language", "progress":"Completed"},
+      {"title":"Theory of Programming Language", "progress":"Completed"},
       {"title":"Data Security & Cryptography", "progress":"Completed"},
       {"title":"Introduction to Networks", "progress":"Completed"},
       {"title":"Theory of Computation", "progress":"Completed"},
-      {"title":"Web Application Development", "progress":"In-Progress"},
-      {"title":"Sample Course", "progress":"In-Progress"}
+      {"title":"Web Application Development", "progress":"In-Progress"}
     ]}
   ]
 }
