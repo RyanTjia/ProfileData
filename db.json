@@ -14,7 +14,8 @@
       {"title":"Data Security & Cryptography", "progress":"Completed"},
       {"title":"Introduction to Networks", "progress":"Completed"},
       {"title":"Theory of Computation", "progress":"Completed"},
-      {"title":"Web Application Development", "progress":"In-Progress"}
+      {"title":"Web Application Development", "progress":"In-Progress"},
+      {"title":"Sample Course", "progress":"In-Progress"}
     ]}
   ]
 }
