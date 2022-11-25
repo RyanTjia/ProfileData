@@ -33,8 +33,8 @@
     {"title":"Sample", "link":"Sample"}
   ],
 
-  "Experiences": [
-  	{"relevant": [
+  "Experiences": {
+  	"relevant": [
   		{"title":"Projects (Full-Stack)", "start":"March 2020", "end":"Present", "position":"Independent Developer", "location":"New York, NY", "summary": [
   			{"point":"Utilized Unity software game engine to develop multiple games whilst improving basic understanding of C#"},
   			{"point":"Published three short games using Unity engine, both of which were submitted to the game jams"},
@@ -49,8 +49,8 @@
   			{"point":"Collaborated with team members during a 2-week intensive program"},
   			{"point":"Contributed propositions to plan a device that resolves a community issue with noncommercial vehicles stationed in restricted areas"}
   		]}
-  	]},
-  	{"work": [
+  	],
+  	"work": [
   		{"title":"Briarwood Family Residence", "start":"October 2019", "end":"February 2020", "position":"Volunteer", "location":"Jamaica, NY", "summary": [
   			{"point":"Helped middle school children with their homework, especially in the area of mathematics"},
   			{"point":"Utilized spare time to learn more about the shelter's work and offer help around the area"}
@@ -60,6 +60,6 @@
   			{"point":"Handle returned books into their respective carts to be placed back onto the correct rooms"},
   			{"point":"Provide help around the library, such as sorting books"}
   		]}
-  	]}
-  ]
+  	]
+  }
 }
