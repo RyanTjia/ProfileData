@@ -33,5 +33,35 @@
     {"title":"(Course) Creating a task list", "link":"https://ryantjia19.github.io/milestone_1/Assignment02/TaskList.html"},
     {"title":"(Course) Single Page Application Quiz sample", "link":"https://resonant-monstera-b449dd.netlify.app"},
     {"title":"Sample", "link":"Sample"}
+  ],
+
+  "Experiences": [
+  	{"relevant": [
+  		{"title":"Projects (Full-Stack)", "start":"March 2020", "end":"Present", "position":"Independent Developer", "location":"New York, NY", "summary": [
+  			{"point":"Utilized Unity software game engine to develop multiple games whilst improving basic understanding of C#"},
+  			{"point":"Published three short games using Unity engine, both of which were submitted to the game jams"},
+  			{"point":"Designed a simple webpage that showcase my portfolio with the use of HTML, CSS, and JavaScript"},
+  			{"point":"Sought new knowledge or strategy to resolve any issues faced during development"}
+  		]},
+  		{"title":"Capstone Project", "start":"October 2018", "end":"December 2021", "position":"Group Member", "location":"Jamaica, NY", "summary": [
+  			{"point":"Collaborated with a team under the SCRUM methodology to develop a website of choice"},
+  			{"point":"Utilized Python, Flask, and GitHub to create a website that focuses on viewing restaurants"}
+  		]},
+  		{"title":"HackNYU", "start":"November 2018", "end":"December 2018", "position":"Active Participant", "location":"New York, NY", "summary": [
+  			{"point":"Collaborated with team members during a 2-week intensive program"},
+  			{"point":"Contributed propositions to plan a device that resolves a community issue with noncommercial vehicles stationed in restricted areas"}
+  		]}
+  	]},
+  	{"work": [
+  		{"title":"Briarwood Family Residence", "start":"October 2019", "end":"February 2020", "position":"Volunteer", "location":"Jamaica, NY", "summary": [
+  			{"point":"Helped middle school children with their homework, especially in the area of mathematics"},
+  			{"point":"Utilized spare time to learn more about the shelter's work and offer help around the area"}
+  		]},
+  		{"title":"Queens Public Library", "start":"September 2018", "end":"May 2018", "position":"homework Helper & Library Volunteer", "location":"Elmhurst, NY", "summary": [
+  			{"point":"Tutored primary children who need help, especially in areas of mathematics"},
+  			{"point":"Handle returned books into their respective carts to be placed back onto the correct rooms"},
+  			{"point":"Provide help around the library, such as sorting books"}
+  		]}
+  	]}
   ]
 }
