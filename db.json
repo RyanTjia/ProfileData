@@ -4,7 +4,7 @@
       {"title":"Computer Program Fundamental I", "progress":"Completed"},
       {"title":"Computer Program Fundamental II", "progress":"Completed"},
       {"title":"Intro to Data Structures", "progress":"Completed"},
-      {"title":"Advanced Data Structures", "progress":"In-Progress"},
+      {"title":"Advanced Data Structures", "progress":"Completed"},
       {"title":"Software Design Methods", "progress":"Completed"},
       {"title":"Computer Architecture", "progress":"Completed"},
       {"title":"Operating Systems", "progress":"Completed"},
@@ -14,16 +14,19 @@
       {"title":"Data Security & Cryptography", "progress":"Completed"},
       {"title":"Introduction to Networks", "progress":"Completed"},
       {"title":"Theory of Computation", "progress":"Completed"},
-      {"title":"Web Application Development", "progress":"In-Progress"}
+      {"title":"Web Application Development", "progress":"Completed"},
+      {"title":"Artificial Intelligence", "progress":"In-Progress"},
+      {"title":"Special Topics in Computer Science", "progress":"In-Progress"},
+      {"title":"Information Technology for Business", "progress":"In-Progress"}
     ]}
   ],
 
   "Skills": {
   	"languages": ["HTML", "CSS", "JavaScript", "Java", "C#", "Python"],
-  	"operating": ["MacOS", "iOS", "Windows 10 OS", "Android OS"],
-  	"development": ["Repl.it", "Love2D", "Unity", "Sublime Text", "Terminal", "Command Line", "GitHub"],
-  	"office": ["MS Word", "PowerPoint", "Excel", "Outlook", "Google Docs", "Google Sheets", "Gmail"],
-  	"interest": ["Software Development", "Game Development", "Reading", "Writing"]
+  	"operating": ["MacOS", "iOS", "Windows 10 OS", "Android OS", "Google Android OS"],
+  	"development": ["Repl.it", "Unity", "Sublime Text", "Terminal", "Command Line", "GitHub"],
+  	"office": ["MS Word", "PowerPoint", "Excel", "Outlook", "Google Docs", "Sheets", "Gmail"],
+  	"interest": ["Software/Game Development", "Reading", "Podcast", "Tennis"]
   },
 
   "Projects": [
