@@ -30,11 +30,11 @@
   },
 
   "Projects": [
-    {"title":"Profile", "link":"https://ryantjia19.github.io/milestone_1",
-      "desc":"Utilize HTML, CSS, and BootStrap to create a simple profile page."},
-    {"title":"Creating a task list", "link":"https://ryantjia19.github.io/milestone_1/Assignment02/TaskList.html",
-      "desc":"An application that allows user to create, modify, and delete tasks. Utilized JavaScript to handle the functions."},
-    {"title":"Single Page Application Quiz sample", "link":"https://resonant-monstera-b449dd.netlify.app",
+    {"title":"Profile Page", "link":"https://ryantjia19.github.io/milestone_1",
+      "desc":"Simple profile page developed using HTML, CSS, and BootStrap."},
+    {"title":"Task List", "link":"https://ryantjia19.github.io/milestone_1/Assignment02/TaskList.html",
+      "desc":"An application that allows user to create, modify, and delete tasks. Utilized JavaScript to handle such functions."},
+    {"title":"Single Page Application Quiz Prototype", "link":"https://resonant-monstera-b449dd.netlify.app",
       "desc":"A single page quiz using an api to retrieve custom questions and answers from a database."},
     {"title":"HTML Practice", "link":"https://ryantjia.github.io/Profile/HTML%20Practice/Exercises",
       "desc":"A single html page showcasing different JavaScript functions to improve current knowledge of the language."}
