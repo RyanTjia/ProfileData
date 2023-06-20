@@ -15,9 +15,9 @@
       {"title":"Introduction to Networks", "progress":"Completed"},
       {"title":"Theory of Computation", "progress":"Completed"},
       {"title":"Web Application Development", "progress":"Completed"},
-      {"title":"Artificial Intelligence", "progress":"In-Progress"},
-      {"title":"Special Topics in Computer Science", "progress":"In-Progress"},
-      {"title":"Information Technology for Business", "progress":"In-Progress"}
+      {"title":"Artificial Intelligence", "progress":"Completed"},
+      {"title":"Special Topics in Computer Science", "progress":"Completed"},
+      {"title":"Information Technology for Business", "progress":"Completed"}
     ]}
   ],
 
@@ -42,18 +42,15 @@
 
   "Experiences": {
   	"relevant": [
-      {"title":"New York Cares", "start":"January 2023", "end":"Present", "position":"IRS Volunteer Income Tax Assistant (VITA) Program", "location":"New York, NY", "summary": [
-        {"point":"Prepare and e-file Federal and State individual tax returns for low-income families using TaxSlayer tax software."},
-        {"point":"Communicate with patrons to answer any inquires or concerns to better help understand their tax situation."},
-        {"point":"Support team in troubleshooting any technical difficulties faced with TaxSlayer software."}
-      ]},
   		{"title":"Projects (Full-Stack)", "start":"March 2020", "end":"Present", "position":"Independent Developer", "location":"New York, NY", "summary": [
   			{"point":"Published three games on itch.io using Unity Game Engine to improve efficiency in the C# language learning skill."},
   			{"point":"Utilized Stack Overflow as resource to resolve any issues faced during development."},
   			{"point":"Designed a profile page with the use of HTML, CSS, and JavaScript."}
   		]},
   		{"title":"Capstone Project", "start":"October 2021", "end":"December 2021", "position":"Group Member", "location":"Jamaica, NY", "summary": [
-  			{"point":"Collaborated with team members under the SCRUM method to develop a desired prototype website."},
+  			{"point":"Collaborated with team members under the SCRUM methodology to develop a desired prototype website."},
+        {"point":"Attended weekly meetings to discuss progress on the project and assign new tasks."},
+        {"point":"Assisted members facing any development issues to prevent delays on the prototype."},
   			{"point":"Utilized Flask, Python, and GitHub during the development phase of the website."}
   		]},
   		{"title":"HackNYU", "start":"November 2018", "end":"December 2018", "position":"Active Participant", "location":"New York, NY", "summary": [
