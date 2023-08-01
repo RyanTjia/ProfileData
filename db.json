@@ -23,8 +23,9 @@
 
   "Skills": {
   	"languages": ["HTML", "CSS", "JavaScript", "Java", "C#", "Python"],
-  	"operating": ["MacOS", "iOS", "Windows 10 OS", "Android OS", "Google Android OS"],
-  	"development": ["Repl.it", "Unity", "Sublime Text", "Terminal", "Command Line", "GitHub"],
+    "technical": ["Flask", "Node.js", "Express.js", "React.js", "MongoDB"],
+  	"operating": ["MacOS", "iOS", "Windows 10 OS", "Google Android OS"],
+  	"development": ["Repl.it", "Unity", "Visual Studio", "Terminal", "Command Line", "GitHub"],
   	"office": ["MS Word", "PowerPoint", "Excel", "Outlook", "Google Docs", "Sheets", "Gmail"],
   	"interest": ["Software/Game Development", "Reading", "Podcast", "Tennis"]
   },
