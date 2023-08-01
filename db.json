@@ -45,8 +45,8 @@
   	"relevant": [
   		{"title":"Full-Stack Developer", "start":"March 2020", "end":"Present", "position":"Independent Developer", "location":"New York, NY", "summary": [
   			{"point":"Published three games developed with the Unity Game Engine, ensuring excellent user experience."},
-  			{"point":"Cooperated with clients to best understand the projected outcome of the application needed."},
-  			{"point":"Built RESTFUL APIs that served and modify data from MongoDB to the JavaScript front-end based on dynamically chosen user inputs."},
+        {"point":"Cooperated with clients to best understand the projected outcome of the application needed."},
+        {"point":"Built RESTFUL APIs that served and modify data from MongoDB to the JavaScript front-end based on dynamically chosen user inputs."},
         {"point":"Developed a front-end application that uses React.js to serve a visually appealing web page to the users."}
   		]},
   		{"title":"Python Backend Engineer", "start":"October 2021", "end":"December 2021", "position":"Capstone Project", "location":"New York, NY", "summary": [
