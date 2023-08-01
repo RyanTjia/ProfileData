@@ -42,22 +42,23 @@
 
   "Experiences": {
   	"relevant": [
-  		{"title":"Projects (Full-Stack)", "start":"March 2020", "end":"Present", "position":"Independent Developer", "location":"New York, NY", "summary": [
-  			{"point":"Published three games on itch.io using Unity Game Engine to improve efficiency in the C# language learning skill."},
-  			{"point":"Utilized Stack Overflow as resource to resolve any issues faced during development."},
-  			{"point":"Designed a profile page with the use of HTML, CSS, and JavaScript."}
+  		{"title":"Full-Stack Developer", "start":"March 2020", "end":"Present", "position":"Independent Developer", "location":"New York, NY", "summary": [
+  			{"point":"Published three games developed with the Unity Game Engine, ensuring excellent user experience."},
+  			{"point":"Cooperated with clients to best understand the projected outcome of the application needed."},
+  			{"point":"Built RESTFUL APIs that served and modify data from MongoDB to the JavaScript front-end based on dynamically chosen user inputs."},
+        {"point":"Developed a front-end application that uses React.js to serve a visually appealing web page to the users."}
   		]},
-  		{"title":"Capstone Project", "start":"October 2021", "end":"December 2021", "position":"Group Member", "location":"Jamaica, NY", "summary": [
+  		{"title":"Python Backend Engineer", "start":"October 2021", "end":"December 2021", "position":"Capstone Project", "location":"New York, NY", "summary": [
   			{"point":"Collaborated with team members under the SCRUM methodology to develop a desired prototype website."},
         {"point":"Attended weekly meetings to discuss progress on the project and assign new tasks."},
         {"point":"Assisted members facing any development issues to prevent delays on the prototype."},
   			{"point":"Utilized Flask, Python, and GitHub during the development phase of the website."}
   		]},
-  		{"title":"HackNYU", "start":"November 2018", "end":"December 2018", "position":"Active Participant", "location":"New York, NY", "summary": [
+  		{"title":"Active Participant", "start":"November 2018", "end":"December 2018", "position":"HackNYU", "location":"New York, NY", "summary": [
   			{"point":"Collaborated with team members during a 2-week intensive program."},
   			{"point":"Contributed propositions to plan a device that resolves a community issue with noncommercial vehicles stationed in restricted areas."}
   		]},
-  		{"title":"Queens Public Library", "start":"September 2018", "end":"May 2019", "position":"Volunteer", "location":"Elmhurst, NY", "summary": [
+  		{"title":"Volunteer", "start":"September 2018", "end":"May 2019", "position":"Queens Public Library", "location":"Elmhurst, NY", "summary": [
   			{"point":"Tutored primary-school children in areas of mathematics."},
   			{"point":"Provided general help with Librarian and Page, such as sorting books, events, and customer service."}
   		]}
