@@ -38,7 +38,9 @@
     {"title":"Single Page Application Quiz Prototype", "link":"https://resonant-monstera-b449dd.netlify.app",
       "desc":"A single page quiz using an api to retrieve custom questions and answers from a database."},
     {"title":"HTML Practice", "link":"https://ryantjia.github.io/Profile/HTML%20Practice/Exercises",
-      "desc":"A single html page showcasing different JavaScript functions to improve current knowledge of the language."}
+      "desc":"A single html page showcasing different JavaScript functions to improve current knowledge of the language."},
+    {"title":"Retail Website", "link":"",
+      "desc": "A website built with the MERN stack, allowing users to search for available products and locations."}
   ],
 
   "Experiences": {
