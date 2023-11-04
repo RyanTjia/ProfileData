@@ -23,7 +23,7 @@
 
   "Skills": {
   	"languages": ["HTML", "CSS", "JavaScript", "Java", "C#", "Python"],
-    "technical": ["Flask", "Node.js", "Express.js", "React.js", "MongoDB"],
+    "technical": ["Flask", "Node.js", "Express.js", "React.js", "Angular", "PostgreSQL", "MongoDB"],
   	"operating": ["MacOS", "iOS", "Windows 10 OS", "Google Android OS"],
   	"development": ["Repl.it", "Unity", "Visual Studio", "Terminal", "Command Line", "GitHub"],
   	"office": ["MS Word", "PowerPoint", "Excel", "Outlook", "Google Docs", "Sheets", "Gmail"],
@@ -45,7 +45,12 @@
 
   "Experiences": {
   	"relevant": [
-  		{"title":"Full-Stack Developer", "start":"March 2020", "end":"Present", "position":"Independent Developer", "location":"New York, NY", "summary": [
+      {"title":"Java Web Application Developer", "start":"March 2020", "end":"October 2023", "position":"LBi Software", "location":"Melville, NY", "summary": [
+  			{"point":"Worked closely with the development team to build applications relating to sports management."},
+        {"point":"Added a feature that parses information before exporting it to excel, exceeding client’s expectations."},
+        {"point":"Implemented a different strategy to reduce the amount of API calls needed to query the right information from the database."}
+  		]},
+  		{"title":"Full-Stack Developer", "start":"March 2020", "end":"October 2023", "position":"Independent Developer", "location":"New York, NY", "summary": [
   			{"point":"Published three games developed with the Unity Game Engine, ensuring excellent user experience."},
         {"point":"Cooperated with clients to best understand the projected outcome of the application needed."},
         {"point":"Built RESTFUL APIs that served and modify data from MongoDB to the JavaScript front-end based on dynamically chosen user inputs."},
