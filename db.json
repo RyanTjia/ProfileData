@@ -45,7 +45,7 @@
 
   "Experiences": {
   	"relevant": [
-      {"title":"Java Web Application Developer", "start":"March 2020", "end":"October 2023", "position":"LBi Software", "location":"Melville, NY", "summary": [
+      {"title":"Java Web Application Developer", "start":"October 2023", "end":"Present", "position":"LBi Software", "location":"Melville, NY", "summary": [
   			{"point":"Worked closely with the development team to build applications relating to sports management."},
         {"point":"Added a feature that parses information before exporting it to excel, exceeding client’s expectations."},
         {"point":"Implemented a different strategy to reduce the amount of API calls needed to query the right information from the database."}
