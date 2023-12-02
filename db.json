@@ -47,9 +47,9 @@
   	"relevant": [
       {"title":"Java Web Application Developer", "start":"October 2023", "end":"Present", "position":"LBi Software", "location":"Melville, NY", "summary": [
   			{"point":"Worked closely with the development team to build applications relating to sports management."},
+        {"point":"Responsible for both the backend and the frontend of the application during development phase of the project."},
         {"point":"Adapted to new programming languages and frameworks within a week to tackle the tasks given."},
-        {"point":"Have exceeded client’s expectations when implementing an intended feature of the product."},
-        {"point":"Took on several tasks from team members to quicken the development of the project."}
+        {"point":"Exceeded client’s expectations when implementing an intended feature of the product."}
   		]},
   		{"title":"Full-Stack Developer", "start":"March 2020", "end":"October 2023", "position":"Independent Developer", "location":"New York, NY", "summary": [
   			{"point":"Published three games developed with the Unity Game Engine, ensuring excellent user experience."},
