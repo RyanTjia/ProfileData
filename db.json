@@ -46,11 +46,11 @@
   "Experiences": {
   	"relevant": [
       {"title":"Java Web Application Developer", "start":"October 2023", "end":"Present", "position":"LBi Software", "location":"Melville, NY", "summary": [
-  			{“point”:”Worked with Development team in building sport management applications for major Sports League (i.e., NWSL, NFL, and MLB).”},
-      {“point”:”Developed and maintained APIs to handle user requests, implementing essential logic for seamless user interaction within the system.”},
-  {“point”:”Assisted in the development of user interface (UI) elements, ensuring efficient integration between Users and the Application.”},
-{“point”:”Executed key tasks across five sprints within the initial two weeks, successfully implementing fundamental features for the Application.”},
-{“point”:”Acquired proficiency in new frameworks, including React, Angular, and Spring Boot, within a week, facilitating the implementation of the intended feature into the Application.”}
+  			{"point":"Worked with Development team in building sport management applications for major Sports League (i.e., NWSL, NFL, and MLB)."},
+        {"point":"Developed and maintained APIs to handle user requests, implementing essential logic for seamless user interaction within the system."},
+        {"point":"Assisted in the development of user interface (UI) elements, ensuring efficient integration between Users and the Application."},
+        {"point":"Executed key tasks across five sprints within the initial two weeks, successfully implementing fundamental features for the Application."},
+        {"point":"Acquired proficiency in new frameworks, including React, Angular, and Spring Boot, within a week, facilitating the implementation of the intended feature into the Application."}
   		]},
   		{"title":"Full-Stack Developer", "start":"March 2020", "end":"October 2023", "position":"Independent Developer", "location":"New York, NY", "summary": [
   			{"point":"Cooperated with clients to best understand the projected outcome of the application needed."},
